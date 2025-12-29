@@ -1,11 +1,25 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# Grupo Euro Trabajo - Maqueta Profesional
 
-  <h1>Built with AI Studio</h2>
+Este es el repositorio oficial de la propuesta de sitio web para **Grupo Euro Trabajo**. Una plataforma moderna diseñada para la conexión de talento hispanohablante con oportunidades laborales en Europa.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🚀 Tecnologías Utilizadas
+- **React 19** con **TypeScript**
+- **Tailwind CSS** para el diseño visual
+- **Framer Motion** para animaciones fluidas
+- **Lucide React** para iconografía moderna
+- **Vite** como empaquetador
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🛠️ Cómo ejecutar en local
+1. Clonar el repositorio.
+2. Ejecutar `npm install` para instalar dependencias.
+3. Ejecutar `npm run dev` para iniciar el servidor de desarrollo.
 
-</div>
+## 📄 Características de la Maqueta
+- Diseño responsive (Móvil/Desktop).
+- Sistema de navegación inteligente hacia el formulario de aplicación.
+- Sección de vacantes filtrable.
+- Integración con WhatsApp para atención rápida.
+
+---
+*Diseñado con enfoque en UX/UI para el sector de reclutamiento internacional.*
